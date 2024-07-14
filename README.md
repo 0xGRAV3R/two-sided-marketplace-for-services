@@ -30,8 +30,8 @@ mpl-core = { version = "0.7.2", features = [ "anchor" ] }
 #### Clone the repo
 
 ```shell
-git clone https://github.com/0xGRAV3R/whitelist-gated-token-sale.git
-cd whitelist-gated-token-sale
+git clone https://github.com/0xGRAV3R/two-sided-marketplace-for-services.git
+cd two-sided-marketplace-for-services
 ```
 
 #### Install Dependencies
