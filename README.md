@@ -24,6 +24,9 @@ anchor-lang = {version = "0.30.1", features = ["init-if-needed", "interface-inst
 anchor-spl = "0.30.1" <br>
 mpl-core = { version = "0.7.2", features = [ "anchor" ] }
 
+### Anchor.toml
+[toolchain] <br>
+anchor_version = "0.30.1"
 
 ### Installation
 
